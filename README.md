@@ -1,1 +1,1 @@
-# gop-design-patterns
+# gof-design-patterns
